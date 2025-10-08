@@ -13,7 +13,7 @@ class MyTrialPage extends StatelessWidget {
         child: Column(
           children: [
             SizedBox(height: 200),
-            Text("2nd Page", style: GoogleFonts.abel(
+            Text("Git Connection", style: GoogleFonts.abel(
               fontSize: 28,
               color: Colors.red,
               fontWeight: FontWeight.w500,
