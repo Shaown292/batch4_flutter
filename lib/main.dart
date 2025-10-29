@@ -1,3 +1,4 @@
+import 'package:batch4_flutter/hotel_home.dart';
 import 'package:batch4_flutter/my_trial_page.dart';
 import 'package:flutter/material.dart';
 
@@ -31,7 +32,7 @@ class MyApp extends StatelessWidget {
       //   // tested with just a hot reload.
       //   colorScheme: ColorScheme.fromSeed(seedColor: Colors.red),
       // ),
-      home: MyTrialPage()
+      home: HotelHome()
       
 
     );
